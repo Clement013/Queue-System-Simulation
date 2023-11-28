@@ -1,3 +1,5 @@
+### This simulation is based on the exponential arrival rate and service rate to generate the simulation queue and put them into the pandas to visualize.
+
 1. Simulate with pandas:
 ![image](https://github.com/Clement013/Queue-System-Simulation/assets/76834015/82151f92-10ac-4cbb-9683-8a603e86a006)
 
